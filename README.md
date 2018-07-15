@@ -2,7 +2,7 @@
 
 > The F2E week6 vue validation
 
-https://ewanhohou.github.io/comic-viewer/
+https://ewanhohou.github.io/vue-validation/
 
 ## Build Setup
 
